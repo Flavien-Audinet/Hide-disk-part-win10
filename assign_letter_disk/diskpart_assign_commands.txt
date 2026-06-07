@@ -1,0 +1,5 @@
+rem Ici, vous pouvez effectuer des opérations sur le disque, comme la vérification ou la modification de données.
+
+select disk 2
+select part 2
+assign letter=S
