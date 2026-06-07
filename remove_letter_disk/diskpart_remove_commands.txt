@@ -1,0 +1,5 @@
+rem Supprime la lettre du disque
+
+select disk 2
+select part 2
+remove letter=S
