@@ -1,9 +1,10 @@
 # Hide-disk-part-win10
-Cacher les partitions sous windows 10
+Gestion des partitions sous Windows 10
 
-Assigner ou retirer les lettres des partions sous windows 10 en 1 clic
+Fonctionnalités :
 
-Ajuster les .txt pour la configuration
+Masquer des partitions.
+Assigner ou retirer les lettres de lecteurs en un clic.
 
-
-Derniere maj le 11/04/2023
+Configuration : Modification des fichiers .txt pour adapter les paramètres.
+Dernière mise à jour : 11 avril 2023
